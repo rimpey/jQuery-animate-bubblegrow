@@ -1,0 +1,26 @@
+/* 
+    Initial state of bubble is hidden
+    This class is used to set the initial state of both jQuery and CSS3 bubbles
+*/
+
+.bubble {
+    position: absolute;
+    top: 250px;
+    height: 0px;
+    width: 0px;
+    z-index: 1;
+    background-color: white;
+    text-align: center;
+    line-height: 0px;
+    border-radius: 0px;
+    border: 0px solid green;
+    box-sizing: border-box;
+    font-size: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    opacity: 0;
+}
+
+#bubble {
+    left: 250px;
+}
