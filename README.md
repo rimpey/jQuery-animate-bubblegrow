@@ -1,3 +1,6 @@
+![alt text](http://docs.rhondaimpey.com/img/bubblegrow-jquery-animate.jpg "Bubble Grow - using jQuery animate")
+
+
 jQuery-animate-bubblegrow
 =========================
 
